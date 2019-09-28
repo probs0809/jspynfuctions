@@ -1,1 +1,1 @@
-# scratchJS
+# Jspyn Firebase functions
